@@ -21,4 +21,4 @@ mv dir1/summary.txt "Практическое задание"
 cat "Практическое задание"
 grep "dir" "Практическое задание" | sort
 cd .. || exit 1
-rm -r task
+rm -rf task
